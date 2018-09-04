@@ -1,0 +1,2 @@
+# Fast-Color-Transfer-between-Images
+This implementation of color transfer is based on Color Transfer between Images by Reinhard et al, 2001.  In this paper, Reinhard and colleagues demonstrate that by utilizing the L*a*b* color space and the mean and standard deviation of each L*, a*, and b* channel, respectively, that the color can be transferred between two images. It contains the original paper, code and also explanation of the algorithm.
